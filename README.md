@@ -14,7 +14,7 @@ As imagens disponibilizadas neste repositório representam o produto tecnológic
 
 ---
 
-## 📄 Licença e Uso
+## Licença e Uso
 
 Este material (imagens e diagramas) é disponibilizado sob a licença **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br)**, permitindo o compartilhamento e a adaptação para outros órgãos públicos, desde que atribuído o devido crédito aos autores originais.
 
