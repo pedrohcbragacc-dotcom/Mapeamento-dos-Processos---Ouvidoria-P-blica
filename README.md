@@ -12,7 +12,7 @@ Este repositório disponibiliza as imagens dos modelos de processos de negócio 
 
 As imagens disponibilizadas neste repositório representam o produto tecnológico da pesquisa (artefato). Os diagramas foram construídos utilizando a notação **BPMN (Business Process Model and Notation)**.
 
-O mapeamento está disponível no [link](https://github.com/pedrohcbragacc-dotcom/Mapeamento-dos-Processos---Ouvidoria-P-blica/tree/main/Mapeamento%20dos%20processos)
+[Link para download](https://github.com/pedrohcbragacc-dotcom/Mapeamento-dos-Processos---Ouvidoria-P-blica/tree/main/Mapeamento%20dos%20processos)
 
 ---
 
